@@ -1,9 +1,7 @@
 
 # Hi, I'm Will :sunglasses:
 
-I'm a data scientist :chart_with_upwards_trend:.
-
-And a Lambda School Student. :student:
+I'm a data scientist :chart_with_upwards_trend: and a Lambda School student :student:.
 
 ## About me 
 
