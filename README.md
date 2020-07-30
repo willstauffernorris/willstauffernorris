@@ -1,7 +1,9 @@
 
 # Hi, I'm Will :sunglasses:
 
-I'm a data scientist :chart_with_upwards_trend: and a Lambda School student :student:.
+I'm a data scientist :chart_with_upwards_trend: interested in the intersection of exponential technology trends and environmental benefit :evergreen_tree:.
+
+I'm all about combining the power of cutting edge machine learning with narrative storytelling to inform decision-making.
 
 ## About me 
 
